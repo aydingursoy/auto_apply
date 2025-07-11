@@ -1,0 +1,11 @@
+{
+  "keywords": ["python", "automation", "entry level", "remote", "developer", "ai", "it"],
+  "max_results": 50,
+  "resume_path": "resume.pdf",
+  "user_data": {
+    "full_name": "Aydin Gursoy",
+    "email": "aydingursoy@icloud.com",
+    "phone": "3476565066",
+    "linkedin": "https://www.linkedin.com/in/aydingursoy/"
+  }
+}
